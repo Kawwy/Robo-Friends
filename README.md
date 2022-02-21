@@ -1,6 +1,6 @@
 # Robo-Friends
 
-Fork the project
+## -> Fork the project
 
 ### Install all the packages and dependencies
 npm install
