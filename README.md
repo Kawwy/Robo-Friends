@@ -1,6 +1,6 @@
 # Robo-Friends
 
-## -> Fork the project
+## React-app
 
 ### Install all the packages and dependencies
 npm install
